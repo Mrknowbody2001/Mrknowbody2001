@@ -5,13 +5,13 @@
   <img src="https://komarev.com/ghpvc/?username=Mrknowbody2001&label=Profile%20views&color=0e75b6&style=flat" alt="Mrknowbody2001" />
 </p>
 
-- 🔭 I’m currently working on **MERN Real Estate Web App**
+- 🔭 I’m currently working on **MERN Stack Developmet Projects**
 
 - 🌱 I’m learning **React, Node.js, Express, and MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mrknowbody2001](https://github.com/Mrknowbody2001)
 
-- 📫 How to reach me **[Your email or LinkedIn]**
+- 📫 How to reach me **[https://www.linkedin.com/in/chamith-sandeepa-557496290/]**
 
 - ⚡ Fun fact: I love solving real-life problems with code.
 
@@ -45,13 +45,9 @@
 
 ---
 
-### 🧠 Fun Projects & Interests
 
-- 💼 Bag Shop POS System  
-- 🦷 Dental Appointment System (PHP)  
-- 🧭 Travel Agency Website (MERN)  
-- 🌦️ Weather App using Node.js  
+### 📬 Contact
+
+**Contact me if you want something — LinkedIn above 👆**
 
 ---
-
-Let me know if you'd like to add a **custom banner, GIF, social links**, or anything more stylish!
